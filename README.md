@@ -1,0 +1,1 @@
+# indaia_bokshop_api
